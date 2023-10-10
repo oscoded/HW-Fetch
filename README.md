@@ -3,12 +3,17 @@
 This documentation provides an overview of the solution for the Fetch Coding Exercise - SDET, which involves finding a fake gold bar among nine identical-looking gold bars using a balance scale and a web application [Link](https://fetch-hiring.s3.amazonaws.com/SDET/Fetch_Coding_Exercise_SDET.pdf).
 
 
+## :hammer_and_wrench: Prerequisites
+1. Installed [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+2. Installed [Node.js](https://nodejs.org/en/download)
+
+
 
 ## :gear: Setup
 
 1. `git clone https://github.com/oscoded/HW-Fetch.git`
 2. cd to `HW-Fetch` folder and run `npm install`
-3. run in CMD: `npx cypress run` | run in GUI `npx cypress open` -> select `fetch.cy.js` file
+3. run in CMD: `npx cypress run` | run in GUI `npx cypress open` then select `fetch.cy.js` file
 
 
 ## Problem Statement
