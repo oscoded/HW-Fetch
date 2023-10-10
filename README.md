@@ -1,6 +1,8 @@
 # Fetch Coding Exercise - SDET Documentation
 
-This documentation provides an overview of the solution for the Fetch Coding Exercise - SDET, which involves finding a fake gold bar among nine identical-looking gold bars using a balance scale and a web application.
+This documentation provides an overview of the solution for the Fetch Coding Exercise - SDET, which involves finding a fake gold bar among nine identical-looking gold bars using a balance scale and a web application [Link](https://fetch-hiring.s3.amazonaws.com/SDET/Fetch_Coding_Exercise_SDET.pdf).
+
+
 
 ## :gear: Setup
 
